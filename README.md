@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vladbuf
+- 👋 Hi, I’m @Vlad
 - 🌱 I’m currently learning Python
 
 
