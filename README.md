@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vlad
-- 🌱 I’m currently learning Python and SQL
+- 👋 Salut, I’m @Vlad
+- 🌱 I’m currently learning Python and SQL. As a hobby I'm also learning Pygame and Pixel Art drawing (I'm very bad at it)
 
 
 <!---
